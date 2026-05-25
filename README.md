@@ -25,7 +25,15 @@ Data set contains following information about the patients:
 9. outcome(0 --> Nn-diabetic, 1 --> Diabetic)
 
 # Technologies used
-Numpy,Pandas,Scikit-Learn,Google-colab,Python
+->Numpy
+
+->Pandas
+
+->Scikit-Learn
+
+->Google-colab
+
+->Python
 
 # Machine Learning algorithm:
 SVM(support vector machine)
