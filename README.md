@@ -1,8 +1,8 @@
-#Diabetes pridiction model for Women
+# Diabetes pridiction model for Women
 This project uses Machine Learning to predict whether a person is diabetic or not based on medical attributes.
 The model is built using Python and trained with the Support Vector Machine (SVM) algorithm.
 
-#Project Overview
+# Project Overview
 1. Importing libraries
 2. Data Collection and analysis
 3. Data preprocessing
@@ -12,7 +12,7 @@ The model is built using Python and trained with the Support Vector Machine (SVM
 7. Model evaluation using accuracy score
 8. Building a predictive system
 
-#Data Set Information
+# Data Set Information
 Data set contains following information about the patients:
 1. preganancies
 2. Gluccose level
@@ -24,17 +24,17 @@ Data set contains following information about the patients:
 8. diabetes pedigree function
 9. outcome(0 --> Nn-diabetic, 1 --> Diabetic)
 
-#Technologies used
+# Technologies used
 Numpy,Pandas,Scikit-Learn,Google-colab,Python
 
-#Machine Learning algorithm:
+# Machine Learning algorithm:
 SVM(support vector machine)
 
-#Futre improvements:
+# Futre improvements:
 1.Improve model accuracy
 2.Add data visualization
 3.Deploy as web application
 4.Create a user friwndly interface
 
-#Author
+# Author
 Apoorva Shree
