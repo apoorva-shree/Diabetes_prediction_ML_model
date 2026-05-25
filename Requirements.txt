@@ -1,0 +1,5 @@
+->numpy
+->pandas
+->matplotlib
+->google-collab
+->scikit-learn
