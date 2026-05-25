@@ -1,4 +1,4 @@
-# Diabetes pridiction model using Machine Learning
+# Diabetes prediction using Machine Learning
 This project uses Machine Learning to predict whether a person is diabetic or not based on medical attributes.
 The model is built using Python and trained with the Support Vector Machine (SVM) algorithm.
 
