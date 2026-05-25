@@ -32,8 +32,11 @@ SVM(support vector machine)
 
 # Futre improvements:
 1.Improve model accuracy
+
 2.Add data visualization
+
 3.Deploy as web application
+
 4.Create a user friwndly interface
 
 # Author
