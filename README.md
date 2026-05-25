@@ -37,6 +37,7 @@ Data set contains following information about the patients:
 
 # Accuracy score:
 1.Training accuracy: 78%
+
 2.testing accuracy: 77%
 
 # Machine Learning algorithm:
